@@ -246,4 +246,4 @@ Publish the website in the LocalHost.
 
 
 ## RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
+The Project for responsive web design using Bootstrap is completed successfully
